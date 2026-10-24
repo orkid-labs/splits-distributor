@@ -28,3 +28,18 @@ let result = execute_distribution(&provider, contract_address, token_address, &s
 ## License
 
 MIT
+
+---
+
+## Part of Orkid Labs
+
+**splits-distributor** — Interact with 0xSplits contracts from Rust — discover splits, check balances, execute distributions.
+
+- Install: `cargo add splits-distributor`
+- Package: https://crates.io/crates/splits-distributor
+- API docs: https://docs.rs/splits-distributor
+- Docs: https://docs.orkidlabs.xyz/packages/splits-distributor
+
+Related Orkid projects: [defi-core](https://github.com/orkid-labs/defi-core)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)
